@@ -1,0 +1,4 @@
+{"type":"dsh-session-sync","version":2,"workspace":"ws-a12c0446a3","inheritedEventCount":0,"session":{"version":4,"id":"session-5cb5d03d-9e5b-44f6-aff8-63514c834a9e","createdAt":1795341780996,"isSeeded":false,"delegationDepth":0,"agentPreset":"standard"}}
+{"type":"permission/preset","seq":0,"time":1795341781007,"data":{"preset":"workspace-write"}}
+{"type":"sandbox/mode","seq":1,"time":1795341781041,"data":{"mode":"workspace-write"}}
+{"type":"approval/policy","seq":2,"time":1795341781072,"data":{"policy":"ask"}}
